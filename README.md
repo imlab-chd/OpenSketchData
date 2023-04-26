@@ -5,7 +5,7 @@ SketchData is a dataset of hand-drawn sketches, consisting of five categories: b
 
 ##### Samples
 
-![Example images](/Example images.png)
+![Example images](/Exampleimages.png)
 
 **Dataset Content and Format**:
 The dataset is organized into five folders, each representing one of the five categories: boy, cloud, mushroom, sun, and stone. Each folder contains 500 PNG format sketch images.
