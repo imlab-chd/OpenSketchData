@@ -1,7 +1,7 @@
 # SketchData
 
 **Abstract**：
-SketchData is a dataset of hand-drawn sketches, consisting of five categories: boy, cloud, mushroom, sun, and stone. Each category contains 500 PNG format images, with a resolution of 1111x1111 pixels, resulting in a total of 2500 images.
+SketchData is a dataset of hand-drawn sketches, consisting of five categories: boy, cloud, mushroom, sun, and stone. Each category contains 500 PNG format images, with a resolution of 1111x1111 pixels, resulting in a total of 2500 images(It contains 240 images from the TU-Berlin dataset).
 
 ##### Samples
 
